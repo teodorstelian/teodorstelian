@@ -10,8 +10,8 @@ I'm a **Software Developer** who loves bringing ideas to life, learning new stuf
 
 <div class="badges-githubstats">
   <p align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=teodorstelian&show_icons=true&theme=dark&count_private=true" height="200">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teodorstelian&theme=dark&count_private=true&hide_progress=true" height="200">
+     <img src="https://github-readme-sta-git-186505-teodor-stelian-baltaretus-projects.vercel.app/api?username=teodorstelian&show_icons=true&theme=dark&count_private=true" height="200">
+     <img src="https://github-readme-sta-git-186505-teodor-stelian-baltaretus-projects.vercel.app/api/top-langs/?username=teodorstelian&theme=dark&count_private=true&hide_progress=true" height="200">
 
   </p>
 </div>
